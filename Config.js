@@ -1,6 +1,6 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244", // replace with your number
-    OWNER_NAME: 'Miracle', // desired name
+    OWNER_NUMBERS: "23373381413", // replace with your number
+    OWNER_NAME: 'Vendetta', // desired name
     BOT_NAME: "KORD", // desired name
     VERSION: 'V1.0.0',
     SESSION_ID: '', //put your session id between ''
